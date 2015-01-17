@@ -1,20 +1,5 @@
 **Last Updated: January 19, 2015**
 
-#### Table of Contents
-
-*   [HTML & CSS](#basics)
-*   [Download a Text Editor](#editor)
-*   [Learn the Command Line](#command)
-*   [Learn Git](#git)
-*   [Learn Logic with Games](#games)
-*   [The Next Step](#next)
-*   [Online Courses](#online)
-*   [Resources: Books](#books)
-*   [Resources: Podcasts](#podcasts)
-*   [Resources: Online](#res_online)
-*   [Resources: Community](#community)
-
-
 #### HTML & CSS
 
 HTML & CSS are a must if you're interested in making websites. HTML stands for Hypertext Markup Language and CSS stands for Cascading Style Sheets. Think of HTML as the skeleton and structure of a webpage. Without CSS, webpages would look as plain and boring as a text file.
