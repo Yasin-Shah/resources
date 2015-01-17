@@ -2,8 +2,6 @@
 
 #### HTML & CSS
 
-HTML & CSS are a must if you're interested in making websites. HTML stands for Hypertext Markup Language and CSS stands for Cascading Style Sheets. Think of HTML as the skeleton and structure of a webpage. Without CSS, webpages would look as plain and boring as a text file.
-
 ##### Learn:
 
 *   [Codecademy's Web Track](http://www.codecademy.com/en/tracks/web)
@@ -29,15 +27,11 @@ Everyone has their preferred text editor, and [Sublime Text](http://www.sublimet
 
 #### Learn the Command Line
 
-Trust me, I used to think the command line was one of the most intimidating things ever. Terminal? Only super genius hackers use that, right? Wrong! I am now using it on a daily basis and it's pretty easy to get a hang of.
-
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 [⇡ top](#top)
 
 #### Learn Git & GitHub
-
-GitHub is kind of like a portfolio where you can display code for projects you've worked on, so you can probably imagine that it's important to learn. You can even upload your [HTML & CSS websites](#basics) that you worked on previously and have GitHub host it like [mine](http://mxngyn.github.io) for free!
 
 ##### Read:
 
@@ -67,7 +61,7 @@ GitHub is kind of like a portfolio where you can display code for projects you'v
 
 #### The Next Step
 
-To assist you on your next step, here are some road maps you can take.
+Now, you should decide which programming language you'd like to specialize in for the moment. To assist you on your next step, here are some road maps you can take.
 
 *   [The Odin Project - Free Web Development Course](http://www.theodinproject.com/courses?ref=homenav)
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
