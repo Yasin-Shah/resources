@@ -1,4 +1,4 @@
-#### Download a Text Editor
+#### Download Text Editor
 
 *   [Sublime Text](http://www.sublimetext.com/)
 
@@ -79,19 +79,27 @@
 *   [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) (Free, Online)
 
 
+#### JavaScript
 
+##### Learn:
 
-*   [The Odin Project - Free Web Development Course](http://www.theodinproject.com/courses?ref=homenav)
+*   [Khan Academy - Into to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+
+##### Additional Resources:
+
+*   [Eloquent JavaScript](http://eloquentjavascript.net/) (Free, Online)
+*   [JavaScript and JQuery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_3?ie=UTF8&qid=1420951251&sr=8-3&)
+*   [Speaking JavaScript](http://speakingjs.com/es5/index.html) (Free, Online)
 
 
 #### Online Courses
 
 ##### Free:
 
+*   [The Odin Project - Free Web Development Course](http://www.theodinproject.com/courses?ref=homenav)
 *   [Bento](https://www.bento.io/)
 *   [The Code Player](http://thecodeplayer.com/)
-*   [Khan Academy - Into to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 *   [Coderbyte](http://coderbyte.com/)
 
 ##### Pay:
@@ -106,10 +114,6 @@
 
 
 **JavaScript**
-
-*   [Eloquent JavaScript](http://eloquentjavascript.net/) (Free, Online)
-*   [JavaScript and JQuery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_3?ie=UTF8&qid=1420951251&sr=8-3&)
-*   [Speaking JavaScript](http://speakingjs.com/es5/index.html) (Free, Online)
 
 
 
