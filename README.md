@@ -104,7 +104,8 @@
 
 *   [Stanford Computer Science 101](https://class.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 *   [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-*   [Harvard CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VMSI4WTF95J)*   [Udacity Intro to Computer Science](https://www.udacity.com/course/cs101)
+*   [Harvard CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VMSI4WTF95J)
+*   [Udacity Intro to Computer Science](https://www.udacity.com/course/cs101)
 
 *   [Algorithms and Data Structures](http://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437)
 *   [Algorithms](http://www.nczonline.net/blog/tag/algorithms/)
