@@ -1,35 +1,12 @@
-**Last Updated: January 19, 2015**
-
-#### HTML & CSS
-
-##### Learn:
-
-*   [Codecademy's Web Track](http://www.codecademy.com/en/tracks/web)
-
-##### Do:
-
-*   [Build a Website](http://www.codecademy.com/en/skills/make-a-website/topics/html-elements)
-*   [Build an 'About You' Page](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w)
-*   [Complete Projects at GA's Dash](https://dash.generalassemb.ly/)
-
-##### Additional Resources:
-
-*   [W3Schools: HTML](http://www.w3schools.com/html/)
-*   [Books](#html)
-
-[⇡ top](#top)
-
 #### Download a Text Editor
 
-Everyone has their preferred text editor, and [Sublime Text](http://www.sublimetext.com/) is mine. But if you take my word for it, read Lifehacker's article on their [five best text editors](http://lifehacker.com/five-best-text-editors-1564907215) and then decide for yourself.
+*   [Sublime Text](http://www.sublimetext.com/)
 
-[⇡ top](#top)
 
 #### Learn the Command Line
 
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
-[⇡ top](#top)
 
 #### Learn Git & GitHub
 
@@ -50,14 +27,30 @@ Everyone has their preferred text editor, and [Sublime Text](http://www.sublimet
 
 *   [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
-[⇡ top](#top)
 
-#### Learn Logic with Games
+#### Learn Basic Programming Logic with Games
 
 *   [Code.org](http://code.org/)
 *   [CodeCombat](https://codecombat.com/)
 
-[⇡ top](#top)
+
+#### HTML & CSS
+
+##### Learn:
+
+*   [Codecademy's Web Track](http://www.codecademy.com/en/tracks/web)
+
+##### Do:
+
+*   [Build a Website](http://www.codecademy.com/en/skills/make-a-website/topics/html-elements)
+*   [Build an 'About You' Page](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w)
+*   [Complete Projects at GA's Dash](https://dash.generalassemb.ly/)
+
+##### Additional Resources:
+
+*   [W3Schools: HTML](http://www.w3schools.com/html/)
+*   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
+
 
 #### The Next Step
 
@@ -66,7 +59,6 @@ Now, you should decide which programming language you'd like to specialize in fo
 *   [The Odin Project - Free Web Development Course](http://www.theodinproject.com/courses?ref=homenav)
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 
-[⇡ top](#top)
 
 #### Online Courses
 
@@ -79,19 +71,13 @@ Now, you should decide which programming language you'd like to specialize in fo
 
 ##### Pay:
 
-*   [Treehouse](https://teamtreehouse.com)
-
-*   **NOTE:** You can join Treehouse for free if you are a Queens, NY resident with a Queens address and a Queens library card. Sign up for the library card [here](http://www.queenslibrary.org/services/library-card/apply-online/card-application-agree) with your Queens address. Wait for them to email you your library card number. Then sign up for [Treehouse with this link](https://teamtreehouse.com/gateways/queens_library/signup).*   [Bloc](https://www.bloc.io)
+*   [Treehouse](https://teamtreehouse.com) (NOTE: You can join Treehouse for free if you are a Queens, NY resident with a Queens address and a Queens library card. Sign up for the library card [here](http://www.queenslibrary.org/services/library-card/apply-online/card-application-agree) with your Queens address. Wait for them to email you your library card number. Then sign up for [Treehouse with this link](https://teamtreehouse.com/gateways/queens_library/signup).)
+*   [Bloc](https://www.bloc.io)
 *   [Code School](https://www.codeschool.com/)
-
-[⇡ top](#top)
 
 
 #### Resources: Books
 
-##### HTML & CSS
-
-*   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
 
 **Ruby**
 
