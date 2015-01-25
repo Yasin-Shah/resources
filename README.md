@@ -2,11 +2,13 @@
 
 *   [Sublime Text](http://www.sublimetext.com/)
 
+***
 
 #### Learn the Command Line
 
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
+***
 
 #### Learn Git & GitHub
 
@@ -27,12 +29,14 @@
 
 *   [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
+***
 
 #### Learn Basic Programming Logic with Games
 
 *   [Code.org](http://code.org/)
 *   [CodeCombat](https://codecombat.com/)
 
+***
 
 #### HTML & CSS
 
@@ -52,6 +56,7 @@
 *   [W3Schools: HTML](http://www.w3schools.com/html/)
 *   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
 
+***
 
 #### Ruby on Rails
 
@@ -78,6 +83,7 @@
 *   [why's (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (Free, Online)
 *   [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) (Free, Online)
 
+***
 
 #### JavaScript
 
@@ -92,6 +98,7 @@
 *   [JavaScript and JQuery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_3?ie=UTF8&qid=1420951251&sr=8-3&)
 *   [Speaking JavaScript](http://speakingjs.com/es5/index.html) (Free, Online)
 
+***
 
 #### Online Courses
 
@@ -108,27 +115,20 @@
 *   [Bloc](https://www.bloc.io)
 *   [Code School](https://www.codeschool.com/)
 
-
-#### Resources: Books
-
-
-
-**JavaScript**
-
-
+***
 
 #### Resources: Podcasts
 
 *   [CodeNewbie](http://www.codenewbie.org/)
 
-
+***
 
 #### Resources: Online
 
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [exercism.io](http://exercism.io/)
 
-
+***
 
 #### Resources: Community
 
@@ -137,6 +137,7 @@
 
 *   [Hear Me Code](http://hearmecode.com/) - Free, beginner-friendly coding classes for women, by women
 
+***
 
 #### Job Hunting
 
