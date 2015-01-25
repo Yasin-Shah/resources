@@ -39,6 +39,7 @@
 ##### Learn:
 
 *   [Codecademy's Web Track](http://www.codecademy.com/en/tracks/web)
+*   [UReddit: Intro to Web Dev](http://www.reddit.com/r/ureddit_intro_web_dev/)
 
 ##### Do:
 
@@ -52,9 +53,33 @@
 *   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
 
 
-#### The Next Step
+#### Ruby on Rails
 
-Now, you should decide which programming language you'd like to specialize in for the moment. To assist you on your next step, here are some road maps you can take.
+##### Learn:
+
+*   [Code School's Try Ruby](http://tryruby.org/levels/1/challenges/0)
+*   [Codecademy's Ruby Track](http://www.codecademy.com/en/tracks/ruby)
+*   [Ruby Koans](http://rubykoans.com/)
+*   [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+*   [Ruby Monk](https://rubymonk.com/)
+*   [UReddit: Web Programming with Ruby on Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
+*   [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+
+
+##### Do:
+
+*    [Build 12 Apps in 12 Weeks](https://mackenziechild.me/12-in-12/)
+
+##### Additional Resources:
+
+*   [Learn to Program, Second Edition (The Facets of Ruby Series)](http://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360/ref=sr_1_1?s=books&ie=UTF8&qid=1420828602&sr=1-1) // [Free Online Version](https://pine.fm/LearnToProgram/)
+*   [Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=zg_bs_6134006011_1)
+*   [The Well-Grounded Rubyist](http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=asap_bc?ie=UTF8)
+*   [why's (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (Free, Online)
+*   [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) (Free, Online)
+
+
+
 
 *   [The Odin Project - Free Web Development Course](http://www.theodinproject.com/courses?ref=homenav)
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
@@ -79,12 +104,6 @@ Now, you should decide which programming language you'd like to specialize in fo
 #### Resources: Books
 
 
-**Ruby**
-
-*   [Learn to Program, Second Edition (The Facets of Ruby Series)](http://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360/ref=sr_1_1?s=books&ie=UTF8&qid=1420828602&sr=1-1) // [Free Online Version](https://pine.fm/LearnToProgram/)
-*   [Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=zg_bs_6134006011_1)
-*   [The Well-Grounded Rubyist](http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=asap_bc?ie=UTF8)
-*   [why's (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (Free, Online)
 
 **JavaScript**
 
@@ -92,27 +111,32 @@ Now, you should decide which programming language you'd like to specialize in fo
 *   [JavaScript and JQuery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_3?ie=UTF8&qid=1420951251&sr=8-3&)
 *   [Speaking JavaScript](http://speakingjs.com/es5/index.html) (Free, Online)
 
-[⇡ top](#top)
+
 
 #### Resources: Podcasts
 
 *   [CodeNewbie](http://www.codenewbie.org/)
 
-[⇡ top](#top)
+
 
 #### Resources: Online
 
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [exercism.io](http://exercism.io/)
 
-[⇡ top](#top)
+
 
 #### Resources: Community
 
-[Meetup](http://meetup.com/) is a great resource to find community gatherings. There are a ton of tech meetups on here and I highly recommend this site to find events based on any of your interests and hobbies, not just tech.
 
 ##### Washington, D.C.
 
 *   [Hear Me Code](http://hearmecode.com/) - Free, beginner-friendly coding classes for women, by women
 
-[⇡ top](#top)
+
+#### Job Hunting
+
+[Interview Questions](https://www.ocf.berkeley.edu/~kelu/interviews/questions.html)
+[katemats Epic List of Interview Questions](http://katemats.com/interview-questions/)
+[Algorithm & Interview Prep Resources](http://meetupresources.herokuapp.com/index.html)
+[Coding for Interviews](http://codingforinterviews.com/practice)
