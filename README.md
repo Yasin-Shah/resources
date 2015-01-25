@@ -161,5 +161,5 @@
 
 ##### Washington, D.C.
 
-*   [Hear Me Code](http://hearmecode.com/) - Free, beginner-friendly coding classes for women, by women
+*   [Hear Me Code](http://hearmecode.com/)
 *   [DCFemTech](http://dcfemtech.github.io)
