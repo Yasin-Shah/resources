@@ -117,6 +117,20 @@
 
 ***
 
+
+#### Interview Resouces
+
+*   [Interview Questions](https://www.ocf.berkeley.edu/~kelu/interviews/questions.html)
+*   [katemats Epic List of Interview Questions](http://katemats.com/interview-questions/)
+*   [Algorithm & Interview Prep Resources](http://meetupresources.herokuapp.com/index.html)
+*   [Coding for Interviews](http://codingforinterviews.com/practice)
+
+***
+
+#### Job Hunting
+
+***
+
 #### Resources: Podcasts
 
 *   [CodeNewbie](http://www.codenewbie.org/)
@@ -136,12 +150,4 @@
 ##### Washington, D.C.
 
 *   [Hear Me Code](http://hearmecode.com/) - Free, beginner-friendly coding classes for women, by women
-
-***
-
-#### Job Hunting
-
-[Interview Questions](https://www.ocf.berkeley.edu/~kelu/interviews/questions.html)
-[katemats Epic List of Interview Questions](http://katemats.com/interview-questions/)
-[Algorithm & Interview Prep Resources](http://meetupresources.herokuapp.com/index.html)
-[Coding for Interviews](http://codingforinterviews.com/practice)
+*   [DCFemTech](http://dcfemtech.github.io)
