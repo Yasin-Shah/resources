@@ -100,6 +100,18 @@
 
 ***
 
+#### Computer Science Basics
+
+*   [Stanford Computer Science 101](https://class.stanford.edu/courses/Engineering/CS101/Summer2014/about)
+*   [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+*   [Harvard CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VMSI4WTF95J)
+*   [Udacity Intro to Computer Science](https://www.udacity.com/course/cs101)
+
+*   [Algorithms and Data Structures](http://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437)
+*   [Algorithms](http://www.nczonline.net/blog/tag/algorithms/)
+
+***
+
 #### Online Courses
 
 ##### Free:
@@ -117,13 +129,13 @@
 
 ***
 
-
 #### Interview Resouces
 
 *   [Interview Questions](https://www.ocf.berkeley.edu/~kelu/interviews/questions.html)
 *   [katemats Epic List of Interview Questions](http://katemats.com/interview-questions/)
 *   [Algorithm & Interview Prep Resources](http://meetupresources.herokuapp.com/index.html)
 *   [Coding for Interviews](http://codingforinterviews.com/practice)
+*   [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ***
 
