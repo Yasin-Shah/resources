@@ -8,6 +8,10 @@
 
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
+##### Additional Resources:
+
+*   [change your .bash_profile](https://medium.com/@.keith/change-your-bash_profile-change-your-life-d9572ed01481)
+
 ***
 
 #### Learn Git & GitHub
