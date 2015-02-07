@@ -1,3 +1,7 @@
+### Table of contents
+[TOC]
+
+
 #### Download Text Editor
 
 *   [Sublime Text](http://www.sublimetext.com/)
@@ -32,6 +36,7 @@
 ##### Additional Resources:
 
 *   [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+*   [Git Resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036)
 
 ***
 
