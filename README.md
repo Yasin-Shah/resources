@@ -1,7 +1,3 @@
-### Table of contents
-[TOC]
-
-
 #### Download Text Editor
 
 *   [Sublime Text](http://www.sublimetext.com/)
