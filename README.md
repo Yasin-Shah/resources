@@ -1,9 +1,3 @@
-#### Download Text Editor
-
-*   [Sublime Text](http://www.sublimetext.com/)
-
-***
-
 #### Learn the Command Line
 
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
