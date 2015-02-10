@@ -102,7 +102,7 @@
 
 ***
 
-#### Computer Science Basics
+#### Computer Science Concepts
 
 *   [Stanford Computer Science 101](https://class.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 *   [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
