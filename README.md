@@ -110,6 +110,11 @@
 *   [Udacity Intro to Computer Science](https://www.udacity.com/course/cs101)
 *   [Algorithms and Data Structures](http://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437)
 *   [Algorithms](http://www.nczonline.net/blog/tag/algorithms/)
+*   [The Computer Science Handbook](http://www.thecshandbook.com/public_html/TheComputerScienceHandbook.pdf)
+*   [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+*   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+*   [Coursera Algorithms, Part I](https://www.coursera.org/course/algs4partI)
+*   [Coursera Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 
 ***
 
