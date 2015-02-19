@@ -147,6 +147,8 @@
 
 #### Job Hunting
 
+*   [Hired](https://hired.com/)
+
 ***
 
 #### Resources: Podcasts
