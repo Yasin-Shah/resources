@@ -1,4 +1,4 @@
 # Resources
 
-[Career](careers.md)
-[Coding](coding.md)
+*   [Career](careers.md)
+*   [Coding](coding.md)
