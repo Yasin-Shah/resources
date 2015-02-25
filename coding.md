@@ -68,6 +68,7 @@
 *   [Ruby Monk](https://rubymonk.com/)
 *   [UReddit: Web Programming with Ruby on Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
 *   [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+*   [Sandi Metz Rules for Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
 
 ##### Do:
@@ -90,6 +91,7 @@
 
 *   [Khan Academy - Into to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+*   [Object Playground](http://www.objectplayground.com/)
 
 ##### Additional Resources:
 
@@ -108,13 +110,9 @@
 *   [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 *   [Harvard CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VMSI4WTF95J)
 *   [Udacity Intro to Computer Science](https://www.udacity.com/course/cs101)
-*   [Algorithms and Data Structures](http://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437)
-*   [Algorithms](http://www.nczonline.net/blog/tag/algorithms/)
 *   [The Computer Science Handbook](http://www.thecshandbook.com/public_html/TheComputerScienceHandbook.pdf)
 *   [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 *   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
-*   [Coursera Algorithms, Part I](https://www.coursera.org/course/algs4partI)
-*   [Coursera Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 
 ***
 
@@ -132,20 +130,6 @@
 *   [Treehouse](https://teamtreehouse.com) (NOTE: You can join Treehouse for free if you are a Queens, NY resident with a Queens address and a Queens library card. Sign up for the library card [here](http://www.queenslibrary.org/services/library-card/apply-online/card-application-agree) with your Queens address. Wait for them to email you your library card number. Then sign up for [Treehouse with this link](https://teamtreehouse.com/gateways/queens_library/signup).)
 *   [Bloc](https://www.bloc.io)
 *   [Code School](https://www.codeschool.com/)
-
-***
-
-#### Interview Resouces
-
-*   [Interview Questions](https://www.ocf.berkeley.edu/~kelu/interviews/questions.html)
-*   [katemats Epic List of Interview Questions](http://katemats.com/interview-questions/)
-*   [Algorithm & Interview Prep Resources](http://meetupresources.herokuapp.com/index.html)
-*   [Coding for Interviews](http://codingforinterviews.com/practice)
-*   [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-***
-
-#### Job Hunting
 
 ***
 
