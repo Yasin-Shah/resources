@@ -2,6 +2,7 @@
 *   [AngelList](https://angel.co/)
 *   [StackOverflow Job Listings](http://careers.stackoverflow.com/jobs)
 *   [Hired](https://hired.com)
+*   [Jobsuitors](https://jobsuitors.com/)
 
 ***
 
