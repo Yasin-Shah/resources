@@ -55,54 +55,9 @@
 *   [W3Schools: HTML](http://www.w3schools.com/html/)
 *   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
 
-***
-
-#### Ruby on Rails
-
-##### Learn:
-
-*   [Code School's Try Ruby](http://tryruby.org/levels/1/challenges/0)
-*   [Codecademy's Ruby Track](http://www.codecademy.com/en/tracks/ruby)
-*   [Ruby Koans](http://rubykoans.com/)
-*   [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
-*   [Ruby Monk](https://rubymonk.com/)
-*   [UReddit: Web Programming with Ruby on Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
-*   [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
-*   [Sandi Metz Rules for Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
-
-
-##### Do:
-
-*    [Build 12 Apps in 12 Weeks](https://mackenziechild.me/12-in-12/)
-
-##### Additional Resources:
-
-*   [Learn to Program, Second Edition (The Facets of Ruby Series)](http://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360/ref=sr_1_1?s=books&ie=UTF8&qid=1420828602&sr=1-1) // [Free Online Version](https://pine.fm/LearnToProgram/)
-*   [Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=zg_bs_6134006011_1)
-*   [The Well-Grounded Rubyist](http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=asap_bc?ie=UTF8)
-*   [why's (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (Free, Online)
-*   [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) (Free, Online)
 
 ***
 
-#### JavaScript
-
-##### Learn:
-
-*   [Khan Academy - Into to JS](https://www.khanacademy.org/computing/computer-programming/programming)
-*   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-*   [Object Playground](http://www.objectplayground.com/)
-
-##### Additional Resources:
-
-*   [Eloquent JavaScript](http://eloquentjavascript.net/) (Free, Online)
-*   [JavaScript and JQuery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_3?ie=UTF8&qid=1420951251&sr=8-3&)
-*   [Speaking JavaScript](http://speakingjs.com/es5/index.html) (Free, Online)
-*   [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) (Free, Online)
-*   [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1422166866&sr=8-1)
-*   [Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_1?ie=UTF8&)
-
-***
 
 #### Computer Science Concepts
 
