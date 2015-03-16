@@ -1,3 +1,5 @@
+### Coding Basics
+
 #### Learn the Command Line
 
 *   [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
