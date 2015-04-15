@@ -56,6 +56,7 @@
 
 *   [W3Schools: HTML](http://www.w3schools.com/html/)
 *   [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1420951251&sr=8-4&)
+*   [Learn How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/) (Free online e-book)
 
 
 ***
