@@ -6,6 +6,14 @@
 *   [JavaScript is Sexy - How to learn JavaScript ](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 *   [Object Playground](http://www.objectplayground.com/)
 
+
+##### ReactJS / Flux
+
+*   [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+*   [React.js View State Management Tutorial](http://www.toptal.com/react/managing-view-state-with-react)
+*   [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+*   [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+
 ##### Additional Resources:
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net/) (Free, Online)
